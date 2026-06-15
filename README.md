@@ -17,7 +17,7 @@
 
 ---
 
-<img align="right" alt="coding" width="180" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding" width="160" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 ## 👨‍💻 About Me
 
