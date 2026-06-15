@@ -6,12 +6,12 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+Developer+(MERN)+🚀;Java+%26+DSA+Enthusiast+💻;Building+Scalable+Web+Applications+⚡;Open+to+Software+Engineering+Roles+🌱" />
 
-<p>
+<br>
+
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-1705&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/badge/LeetCode-230%2B%20Solved-orange" />
-<img src="https://img.shields.io/badge/150%20Day-Streak-success" />
+<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange" />
+<img src="https://img.shields.io/badge/100%2B%20Day-Streak-success" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
-</p>
 
 </div>
 
@@ -24,7 +24,7 @@
 🎓 **BTech CSE Student @ DIT University**
 💻 **Full Stack Developer (MERN)**
 🧠 Solving **Data Structures & Algorithms in Java**
-🔥 Maintained **150+ Days LeetCode Streak**
+🔥 Maintaining an active **LeetCode streak**
 🚀 Passionate about building **real-world applications**
 🎯 Open to **Software Engineering Opportunities**
 
@@ -72,7 +72,9 @@
 
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Priyanshu-1705&theme=tokyonight&hide_border=true" />
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1705&layout=compact&theme=tokyonight&hide_border=true" />
+<br><br>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1705&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -80,15 +82,16 @@
 
 ## 🧠 DSA & Problem Solving
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/priyanshu_17_10?theme=dark&font=Poppins&border=0&radius=12" width="500"/>
-</p>
+<div align="center">
 
+<img src="https://leetcard.jacoblin.cool/priyanshu_17_10?theme=dark&font=Poppins&border=0&radius=12" width="500"/>
+
+</div>
 
 ### 🏆 Coding Journey
 
-✅ **250+ LeetCode Problems Solved**
-🔥 **150+ Day LeetCode Streak**
+✅ Consistently solving **Data Structures & Algorithms** problems on LeetCode
+🔥 Maintaining an active **LeetCode streak**
 🥈 **CodeChef Silver Medalist**
 💡 Focused on strengthening **Problem Solving & DSA**
 
@@ -96,9 +99,9 @@
 
 ## 🌟 Featured Project
 
-# 🚀 Nexa AI – Full Stack AI Web Application
+### 🚀 Nexa AI – Full Stack AI Web Application
 
-AI-powered MERN web application featuring:
+AI-powered MERN application featuring:
 
 ✅ JWT Authentication
 ✅ Conversational AI using Gemini API
@@ -107,16 +110,13 @@ AI-powered MERN web application featuring:
 ✅ Dark / Light Mode
 ✅ Responsive UI
 
-### ⚙️ Tech Stack
-
+**⚙️ Tech Stack:**
 MongoDB • Express.js • React.js • Node.js • Gemini API • JWT • ImageKit
 
-### 🔗 Links
-
-🌐 **Live Demo:**
+**🌐 Live Demo:**
 https://nexaai-two.vercel.app/
 
-💻 **Repository:**
+**💻 Repository:**
 https://github.com/Priyanshu-1705/nexaai-mern
 
 ---
@@ -125,19 +125,36 @@ https://github.com/Priyanshu-1705/nexaai-mern
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/priyanshu-gangwar">
-<img src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<table border="0">
+<tr border="0">
+<td border="0" align="center">
+<a href="https://www.linkedin.com/in/priyanshu-gangwar" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
+</td>
 
+<td width="18"></td>
+
+<td border="0" align="center">
 <a href="mailto:priyanshugangwar17@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" height="50" />
+<img src="https://skillicons.dev/icons?i=gmail" width="50"/>
 </a>
+</td>
 
-<a href="https://leetcode.com/u/priyanshu_17_10/">
-<img src="https://cdn.simpleicons.org/leetcode" height="50" />
+<td width="18"></td>
+
+<td border="0" align="center">
+<a href="https://leetcode.com/u/priyanshu_17_10/" target="_blank">
+<img src="https://cdn.simpleicons.org/leetcode" width="45"/>
 </a>
+</td>
+
+</tr>
+</table>
 
 </div>
+
+
 
 ---
 
