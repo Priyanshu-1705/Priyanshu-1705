@@ -9,8 +9,8 @@
 <br>
 
 <img src="https://komarev.com/ghpvc/?username=Priyanshu-1705&label=Profile%20Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/badge/LeetCode-200%2B%20Solved-orange" />
-<img src="https://img.shields.io/badge/100%2B%20Day-Streak-success" />
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-orange" />
+<img src="https://img.shields.io/badge/150%2B%20Day-Streak-success" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-blue" />
 
 </div>
